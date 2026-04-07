@@ -1,0 +1,16 @@
+{
+  "name": "HUB: Premium Office A1",
+  "symbol": "HUB",
+  "description": "NFT-лицензия владельца помещения. Дает право на получение оплаты в CWRK.",
+  "image": "https://githubusercontent.com",
+  "attributes": [
+    { "trait_type": "Room Type", "value": "Premium" },
+    { "trait_type": "Access Control", "value": "NFC-Gate" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://githubusercontent.com", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
