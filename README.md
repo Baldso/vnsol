@@ -1,2 +1,2 @@
 # vnsol
-Test repository for the solana test project
+Blueprint repository for the solana testnet project
